@@ -1,18 +1,13 @@
-//Author: Vanessa Malabanan
-//Email address: vmalabanan@go.pasadena.edu
-//Assignment number: Final Project - Word Search
-//Description: Word search program.
-//Last Changed: July 30, 2021
 
 #include <iostream>
 #include <cmath>
 #include <fstream>
 #include <ctime>
 
-const double CHAR_COUNT_MULTIPLIER = 2.75; 
-const double LONGEST_WORD_MULTIPLIER = 1.25; 
-const int MAX_SIZE_WORD_SEARCH = 500; 
-const int MAX_SIZE_WORD_LIST = 100; 
+const double CHAR_COUNT_MULTIPLIER = 2.75; //2.75
+const double LONGEST_WORD_MULTIPLIER = 1.25; //1.25
+const int MAX_SIZE_WORD_SEARCH = 500; //1000
+const int MAX_SIZE_WORD_LIST = 100; //200
 const int NUMBER_OF_ORIENTATIONS = 12;
 const int MIN_SIZE_ARRAY = 1;
 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vanes/Dropbox/#zqC++ Projects/zCS 002/Word Search Program/main.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+ctime
+-
+

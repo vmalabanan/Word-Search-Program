@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Word_Search_Program.dir/objects.a
+C:\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\bin\ar.exe cr CMakeFiles\Word_Search_Program.dir/objects.a @CMakeFiles\Word_Search_Program.dir\objects1.rsp
+C:\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Word_Search_Program.dir/objects.a -Wl,--no-whole-archive -o Word_Search_Program.exe -Wl,--out-implib,libWord_Search_Program.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Word_Search_Program.dir\linklibs.rsp
